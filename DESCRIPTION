@@ -1,0 +1,28 @@
+Package: testpackage
+Type: Package
+Title: many small tools
+Version: 0.1.0009
+Author: Fei Liang <liangfei@mail.example.com>
+Maintainer: Fei Liang <tplate@acm.org>
+Description: Through the correlation analysis between samples, we can observe the 
+             biological repetition between samples in the group. At the same time,
+             the higher the correlation coefficient between the samples in the group
+             and the samples in the group, the more reliable the obtained differential
+             metabolites are. Pearson's correlation coefficient R (Pearson's 
+             correlation coefficient) is used as the evaluation index of biological 
+             repetition correlation. Pearson correlation coefficient is calculated by 
+             the built-in cor function of R software. The closer |r| is to 1, the 
+             stronger the correlation between two duplicate samples is.
+License: MIT + file LICENSE
+Imports: corrplot,grDevices,stats,ggplot2,plyr,RColorBrewer,ggthemes,lattice,permute,readxl,
+    reshape2,vegan,car
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Language: en-US
+Config/testthat/edition: 3
