@@ -17,7 +17,7 @@ testpackage::kmeans_plot(data,
                          center_col = "blue",
                          las = 2)
 ```r
-![image](https://github.com/anhuikylin/printhello/blob/master/Rplot63.png)
+![image](https://github.com/anhuikylin/printhello/blob/master/Rplot63.png?raw=true)
 ```r
 testpackage::kmeans_plot2(data,
                           centers = 6,
