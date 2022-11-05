@@ -3,6 +3,8 @@ A useful R package
 You need to contact this mailbox to use it.
 ## How to use it
 ```r
+library(devtools)
+install_github("anhuikylin/testpackage")
 library(testpackage)
 kmeans_test_data <- kmeans_test_data
 kmeans_test_group <- kmeans_test_group
@@ -15,7 +17,7 @@ testpackage::kmeans_plot(data,
                          center_col = "blue",
                          las = 2)
 ```r
-                         ![image](https://user-images.githubusercontent.com/103125590/200125135-50cbcbbd-f110-4bd0-8294-198dd3387f8d.png)
+                         ![image](https://github.com/anhuikylin/printhello/blob/master/Rplot63.png)
 ```r
 testpackage::kmeans_plot2(data,
                           centers = 6,
