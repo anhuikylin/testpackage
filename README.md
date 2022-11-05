@@ -63,3 +63,4 @@ testpackage::kmeans_plot3(data = data,
 
 ![image](https://github.com/anhuikylin/printhello/blob/master/Rplot68.jpeg) 
 
+![image](https://user-images.githubusercontent.com/103125590/200128089-111b4bab-3bcd-4a58-8872-e42ae15bc561.png)
