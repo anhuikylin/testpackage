@@ -3,7 +3,7 @@ A useful R package
 You need to contact this mailbox to use it.<br/>
 email:fyliangfei@163.com<br/>
 author:Fei Liang<br/><br/>
-作者：梁飞
+作者：梁飞<br/>
 程序包的用途：为了研究基因在不同分组中的相对含量变化趋势，将差异代谢物相对含量在每组中的平均值进行z-score 标准化，然后进行K均值聚类（Kmeans）分析，趋势分析完成后，接下来可对感兴趣的Cluster进一步做基因功能分析，如GO、KEGG富集分析等，直到挖掘到感兴趣的基因。
 ## How to use it
 ```r
