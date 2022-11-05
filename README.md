@@ -1,7 +1,9 @@
 # testpackage
 A useful R package
 You need to contact this mailbox to use it.<br/>
-email:fyliangfei@163.com
+email:fyliangfei@163.com<br/>
+author:Fei Liang<br/>
+中文名：梁飞
 ## How to use it
 ```r
 library(devtools)
