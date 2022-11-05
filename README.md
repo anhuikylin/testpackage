@@ -17,6 +17,46 @@ testpackage::kmeans_plot(data,
                          center_col = "blue",
                          las = 2)
 ```
+```r
+testpackage::kmeans_plot2(data,
+                          centers = 6,
+                          row = 2,
+                          col = 3,
+                          center_col = "blue",
+                          las = 2
+)
+```
+```r
+testpackage::kmeans_plot3(data,
+                          centers = 6,
+                          row = 2,
+                          col = 3,
+                          center_col = "blue",
+                          las = 2
+)
+```
+```r
+testpackage::kmeans_plot3(data = data,
+                          centers = 6,
+                          row = 2,
+                          col = 3,
+                          center_col = "blue",
+                          las = 2,
+                          box = FALSE,
+                          point_plot = TRUE
+)
+```
+```r
+testpackage::kmeans_plot3(data = data,
+                          centers = 6,
+                          row = 2,
+                          col = 3,
+                          center_col = "blue",
+                          las = 2,
+                          box = FALSE,
+                          point_plot = FALSE
+)
+```
 
 ![image](https://github.com/anhuikylin/printhello/blob/master/Rplot68.jpeg) 
 
