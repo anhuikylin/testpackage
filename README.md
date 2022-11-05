@@ -17,6 +17,7 @@ testpackage::kmeans_plot(data,
                          center_col = "blue",
                          las = 2)
 ```
+
 ![image](https://github.com/anhuikylin/printhello/blob/master/Rplot68.jpeg) 
 
 email:fyliangfei@163.com
