@@ -1,7 +1,7 @@
 # testpackage
 A useful R package
 You need to contact this mailbox to use it.
-
+## How to use it
 ```r
 library(testpackage)
 kmeans_test_data <- kmeans_test_data
@@ -14,6 +14,9 @@ testpackage::kmeans_plot(data,
                          col = 3,
                          center_col = "blue",
                          las = 2)
+```r
+                         ![image](https://user-images.githubusercontent.com/103125590/200125135-50cbcbbd-f110-4bd0-8294-198dd3387f8d.png)
+```r
 testpackage::kmeans_plot2(data,
                           centers = 6,
                           row = 2,
