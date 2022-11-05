@@ -1,6 +1,7 @@
 # testpackage
 A useful R package
 You need to contact this mailbox to use it.
+email:fyliangfei@163.com
 ## How to use it
 ```r
 library(devtools)
@@ -60,4 +61,3 @@ testpackage::kmeans_plot3(data = data,
 
 ![image](https://github.com/anhuikylin/printhello/blob/master/Rplot68.jpeg) 
 
-email:fyliangfei@163.com
