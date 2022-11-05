@@ -16,41 +16,7 @@ testpackage::kmeans_plot(data,
                          col = 3,
                          center_col = "blue",
                          las = 2)
-```r
-![image](https://github.com/anhuikylin/printhello/blob/master/Rplot63.png?raw=true)
-```r
-testpackage::kmeans_plot2(data,
-                          centers = 6,
-                          row = 2,
-                          col = 3,
-                          center_col = "blue",
-                          las = 2
-)
-testpackage::kmeans_plot3(data,
-                          centers = 6,
-                          row = 2,
-                          col = 3,
-                          center_col = "blue",
-                          las = 2
-)
-testpackage::kmeans_plot3(data = data,
-                          centers = 6,
-                          row = 2,
-                          col = 3,
-                          center_col = "blue",
-                          las = 2,
-                          box = FALSE,
-                          point_plot = TRUE
-)
-testpackage::kmeans_plot3(data = data,
-                          centers = 6,
-                          row = 2,
-                          col = 3,
-                          center_col = "blue",
-                          las = 2,
-                          box = FALSE,
-                          point_plot = FALSE
-)
 ```
+![image](https://github.com/anhuikylin/printhello/blob/master/Rplot63.png?raw=true) 
 
 email:fyliangfei@163.com
