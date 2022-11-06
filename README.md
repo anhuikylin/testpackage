@@ -7,6 +7,7 @@ author:Fei Liang<br/><br/>
 程序包的用途：为了研究基因在不同分组中的相对含量变化趋势，将基因相对含量在每组中的平均值进行z-score 标准化，然后进行K均值聚类（Kmeans）分析，趋势分析完成后，接下来可对感兴趣的Cluster进一步做基因功能分析，如GO、KEGG富集分析等，直到挖掘到感兴趣的基因。
 ## How to use it
 ```r
+install.packages("devtools")
 library(devtools)
 install_github("anhuikylin/testpackage")
 library(testpackage)
